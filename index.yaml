@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab19:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-21T16:08:20.9793529+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 5dedb8a2607c9baba39de6a36a779dd321e038e0c40e475c3fa98a647182f223
+    name: eventapp-lab19
+    urls:
+    - https://cloudnativeacademy.github.io/mycharts/eventapp-lab19-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-21T16:08:20.9703532+09:00"
